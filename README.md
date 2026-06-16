@@ -1,2 +1,25 @@
-# c76465e3-pharmacy-drug-store-prompt-l
-Tired of manually drafting medication counseling notes, drug interaction warnings, and inventory alerts? This prompt library turns any AI tool into your dedicated pharmacy assistant—cutting documentation time by 70% while ensuring accuracy and compliance.  The Pharmacy &amp; Drug Store Prompt Library for AI Tools is a curated set of 50+ ready-to-use pr
+# Pharmacy & Drug Store Prompt Library for AI Tools
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w5kDeTt7Eo4pq47qd0p0L)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w5kDeTt7Eo4pq47qd0p0L)
+
